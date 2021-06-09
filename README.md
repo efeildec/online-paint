@@ -1,1 +1,1 @@
-# paint.github.io
+# Online Paint
